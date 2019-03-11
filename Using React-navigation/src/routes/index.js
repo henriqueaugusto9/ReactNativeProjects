@@ -1,0 +1,1 @@
+export const apiLogin = 'http://192.168.7.24:3000/api/login' //API de login do front(web), usando so para teste

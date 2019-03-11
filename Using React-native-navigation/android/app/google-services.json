@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "331128494660",
+    "firebase_url": "https://tomorrow-82a61.firebaseio.com",
+    "project_id": "tomorrow-82a61",
+    "storage_bucket": "tomorrow-82a61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331128494660:android:41e60bf28996459b",
+        "android_client_info": {
+          "package_name": "com.app_basquete"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331128494660-bv5ju47itouj1ktoag7i2rmufk0unun1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2DzJIaNYM0U0lK41TWFq9mLQjrMGxtgU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331128494660:android:deb4355c7f959398",
+        "android_client_info": {
+          "package_name": "com.josielteste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331128494660-bv5ju47itouj1ktoag7i2rmufk0unun1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2DzJIaNYM0U0lK41TWFq9mLQjrMGxtgU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
